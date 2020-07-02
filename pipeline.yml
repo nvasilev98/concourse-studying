@@ -4,7 +4,6 @@ resources:
     type: git
     source:
       uri: https://github.com/nvasilev98/concourse-studying.git
-      branch: develop
 
   - name: resource-app
     type: git
