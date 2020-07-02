@@ -3,7 +3,7 @@ resources:
   - name: resource-tutorial
     type: git
     source:
-      uri: https://github.com/starkandwayne/concourse-tutorial.git
+      uri: https://github.com/nvasilev98/concourse-studying.git
       branch: develop
 
   - name: resource-app
