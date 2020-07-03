@@ -8,7 +8,7 @@ resources:
   - name: resource-app
     type: git
     source:
-      uri: https://github.tools.sap/CalcAcademy/i536947.git
+      uri: https://username:password@github.tools.sap/CalcAcademy/i536947.git
       branch: itests
 
 jobs:
